@@ -1,0 +1,52 @@
+.kontakt{
+    margin: 100px auto; 
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.kontakt__left{
+    background-image: url(../../img/img11.png);
+    width: 50%;
+}
+.kontakt__left img{
+    margin-right: 15px;
+    object-fit: contain;
+}
+.kontakt__left ul{
+    width: 40%;
+    margin: 60px 50px;
+}
+.kontakt__left ul li{
+    margin-top: 50px;
+    display: flex;
+}
+.columb{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+.columb b{
+    font-family: Comfortaa;
+font-size: 26px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+}
+.columb a{
+    margin-top: 5px;
+    font-family: Comfortaa;
+font-size: 23px;
+font-weight: 300;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+}
+.kontakt__right{
+    width: 49.7%;
+    margin-left: 0;
+}
+
+

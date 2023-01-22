@@ -1,0 +1,41 @@
+.Footer {
+    max-width: 100%;
+    color: white;
+    border: 1px solid transparent;
+    background: #200D3F;
+}
+
+.foot {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80%;
+    margin: 40px auto;
+}
+.foot__left{
+    font-family: Comfortaa;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    margin: 0 auto;
+    text-align: center;
+}
+.foot__center{
+    margin: auto;
+}
+.foot__center ul {
+    font-family: Comfortaa;
+    font-weight: 200;
+    list-style-type: none;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+.foot__right{
+    margin: 0 auto;
+    text-align: center;
+}
+.foot__right img{
+    margin-left: 20px;
+}

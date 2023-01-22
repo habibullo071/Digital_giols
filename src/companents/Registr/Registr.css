@@ -1,0 +1,48 @@
+.Registr {
+    margin-top: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+.Registr button {
+    height: 49px;
+    width: 198.6063995361328px;
+    border-radius: 2.4372270107269287px;
+    padding: 10px 17px 10px 17px;
+    margin-top:50px;
+    background: #BE00FF;
+    border: none;
+    color: white;
+}
+
+.reg {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 55%;
+    margin: 80px auto;
+}
+
+.Registr p {
+    margin: 0 auto;
+    font-family: Comfortaa;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000;
+}
+
+.reg input {
+    margin: 30px auto;
+    width: 400px;
+    background: transparent;
+    height: 50px;
+    border: none;
+    color: #BE00FF;
+    border-bottom: 3px solid #BE00FF;
+    outline: none;
+    font-size: larger;
+}

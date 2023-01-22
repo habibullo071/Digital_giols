@@ -1,0 +1,61 @@
+.Result {
+    margin-top: 100px;
+    max-width: 100%;
+    color: white;
+    border: 1px solid transparent;
+    background-image: url(../../img/img9.png);
+    background-size: cover;
+}
+
+.res {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.res p {
+    font-family: Comfortaa;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.text{
+    margin: 0 auto; 
+    text-align: center;
+    max-width: 60%;
+}
+.res b {
+    font-family: Comfortaa;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.resul{
+    max-width: 100%;
+    display: flex;
+    list-style-type: none;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.resul li{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    flex-wrap: wrap;
+    width: 300px;
+}
+.resul li img{
+    margin: 0 auto;
+}
+.resul li p{
+    font-family: Comfortaa;
+font-size: 18px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+
+}

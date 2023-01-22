@@ -1,0 +1,75 @@
+.Zadachi {
+    color: white;
+    margin-top: 100px;
+    max-width: 100%;
+    border: 1px solid transparent;
+    background-image: url(../../img/img7.png);
+    object-fit: cover;
+}
+
+.on {
+    margin-top: 35px;
+    font-family: Comfortaa;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: center;
+    background: rgba(189, 0, 255, 0.4);
+    width: 600px;
+}
+.no p{
+    margin: 0;
+}
+
+.zas {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.zas ul {
+    list-style-type: none;
+    margin-bottom: 35px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.no {
+    font-family: Comfortaa;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: center;
+    margin: 35px;
+    height: 105px;
+    width: 382px;
+    background: rgba(189, 0, 255, 0.4);
+    color: white;
+    border-radius: 3.9412682056427px;
+}
+.zas ul :hover{
+    background: #B131DD;
+    transition: 0.2s;
+}
+.on :hover{
+    background: #B131DD;
+}
+.zad {
+    font-family: Comfortaa;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 54px;
+    text-align: center;
+
+}
+
+.zas ul li b {
+    color: white;
+    background: #B131DD;
+    margin-top: 0;
+    width: 30px;
+    text-align: center;
+    border-radius: 0 10px 50px 0;
+    display: block;
+
+}
